@@ -1,0 +1,177 @@
+* { 
+    padding: 0;
+    margin: 0;
+}
+
+.educationid {
+    margin-top: 20px;
+}
+
+.educationnumbertofollowcourse {
+    margin-bottom: 20px;
+}
+
+.educationlist {
+    margin-left: 20px;
+}
+
+.dashboardbutton {
+    text-decoration: none;
+}
+
+.adminh2 {
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.headerdiv {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.loginbutton {
+    text-decoration: none;
+}
+
+.admina {
+    margin-left: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+}
+
+.logoutbutton {
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.profilebutton {
+    text-decoration: none;
+}
+
+.homemain {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.homebutton {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+main {
+    padding-bottom: 20px;
+}
+
+.headerdivtwo {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.headerp {
+    padding: 0;
+    margin: 0;
+}
+
+.footerdiv {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;    
+    padding-left: 200px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footerptwo {
+    position: relative;
+    right: 50px;
+}
+
+.optionalparth2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 2rem;
+}
+
+.linkcourse {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+
+.theleaselist {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.h2dashboard {
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+.inputform {
+    z-index: 1;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.formgroupone {
+    margin-left: 20px;
+}
+
+.buttonform {
+    border: 2px solid black;
+    margin-left: 20px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+}
+
+.buttondelete {
+    border: 2px solid black;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.editbutton {
+    border: 2px solid black;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+.textareaform {
+    margin-left: 20px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.pagemb {
+    margin-bottom: 20px;
+}
